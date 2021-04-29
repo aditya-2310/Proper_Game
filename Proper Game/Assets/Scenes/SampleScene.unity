@@ -445,7 +445,7 @@ MonoBehaviour:
       bevelSize: 0
       spriteIndex: 0
       corner: 1
-      m_CornerMode: 0
+      m_CornerMode: 1
     - position: {x: 13.76418, y: 0.04631624, z: 0}
       leftTangent: {x: 0, y: 0, z: 0}
       rightTangent: {x: 0, y: 0, z: 0}
@@ -455,7 +455,7 @@ MonoBehaviour:
       bevelSize: 0
       spriteIndex: 0
       corner: 1
-      m_CornerMode: 0
+      m_CornerMode: 1
   m_SpriteShape: {fileID: 11400000, guid: 0a3486f34a89847479fda1103c038b14, type: 2}
   m_FillPixelPerUnit: 100
   m_StretchTiling: 1
